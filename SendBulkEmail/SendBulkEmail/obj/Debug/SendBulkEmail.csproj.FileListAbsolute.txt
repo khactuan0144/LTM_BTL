@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\send_bulk_email\SendBulkEmail\SendBulkEmail\bin\Debug\SendBulkEmail.exe.config
+C:\Users\Admin\source\repos\send_bulk_email\SendBulkEmail\SendBulkEmail\bin\Debug\SendBulkEmail.exe
+C:\Users\Admin\source\repos\send_bulk_email\SendBulkEmail\SendBulkEmail\bin\Debug\SendBulkEmail.pdb
+C:\Users\Admin\source\repos\send_bulk_email\SendBulkEmail\SendBulkEmail\obj\Debug\SendBulkEmail.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\send_bulk_email\SendBulkEmail\SendBulkEmail\obj\Debug\SendBulkEmail.Properties.Resources.resources
+C:\Users\Admin\source\repos\send_bulk_email\SendBulkEmail\SendBulkEmail\obj\Debug\SendBulkEmail.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\send_bulk_email\SendBulkEmail\SendBulkEmail\obj\Debug\SendBulkEmail.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\send_bulk_email\SendBulkEmail\SendBulkEmail\obj\Debug\SendBulkEmail.exe
+C:\Users\Admin\source\repos\send_bulk_email\SendBulkEmail\SendBulkEmail\obj\Debug\SendBulkEmail.pdb
